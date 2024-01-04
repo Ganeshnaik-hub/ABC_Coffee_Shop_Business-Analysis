@@ -1,5 +1,11 @@
 # ABC_Coffee_Shop_Business-Analysis
 
+**Output Dashboard link (Looker Studio)**
+https://lookerstudio.google.com/reporting/9daeae58-ca40-4bd7-8cfb-b9c6008fad56/page/p_bgkceg0xcd
+
+**Raw data and Worked data  sheet Link (Google Sheet)**
+https://docs.google.com/spreadsheets/d/1tcy2_aJbyEuGA9fMFrNoNETiLvVPXgFIQZ1UrJKfo7I/edit#gid=2019893962
+
 Analytic Assignment
 
 
@@ -29,3 +35,10 @@ Task 2: Customer Segmentation - Segment ABC Coffee's customers based on their de
 Task 3: Product Analysis - Analyze ABC Coffee's product offerings and identify the most popular products among different customer segments.  Provide insights on how ABC Coffee can improve its product offerings based on the analysis. 
 
 Task 4: Insights and Recommendations - Summarize the insights and recommendations from the previous tasks. Provide actionable recommendations for ABC Coffee based on the analysis. 
+
+
+**Output Dashboard link (Looker Studio)**
+https://lookerstudio.google.com/reporting/9daeae58-ca40-4bd7-8cfb-b9c6008fad56/page/p_bgkceg0xcd
+
+**Raw data and Worked data  sheet Link (Google Sheet)**
+https://docs.google.com/spreadsheets/d/1tcy2_aJbyEuGA9fMFrNoNETiLvVPXgFIQZ1UrJKfo7I/edit#gid=2019893962
